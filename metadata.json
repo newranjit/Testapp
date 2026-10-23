@@ -1,0 +1,6 @@
+{
+  "name": "AgentFlow",
+  "description": "Agentic phone automation assistant powered by Gemini. Executes multi-step tasks across installed apps with custom voice commands and hands-free control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

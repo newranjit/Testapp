@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing central rounded shield container -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M54,23 L79,33 C79,59 67,76 54,84 C41,76 29,59 29,33 Z" />
+
+    <!-- Automation Lightning Spark -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M55,34 L40,53 L52,53 L47,72 L67,49 L55,49 Z" />
+
+    <!-- Smart Autonomous Node Stars / Sparks -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M71,38 L72.5,41 L75.5,42.5 L72.5,44 L71,47 L69.5,44 L66.5,42.5 L69.5,41 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M37,60 L38,62 L40,63 L38,64 L37,66 L36,64 L34,63 L36,62 Z" />
+</vector>

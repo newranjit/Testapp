@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AgentFlow</string>
+    <string name="tagline">Autonomous Phone Automation AI</string>
+    <string name="voice_listening">Listening for command…</string>
+    <string name="prompt_placeholder">Ask AgentFlow to execute any task…</string>
+    <string name="settings">Settings</string>
+    <string name="api_key_hint">Enter Gemini API Key</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="routines">Routines</string>
+    <string name="installed_apps">Installed Apps</string>
+    <string name="agent_logs">Execution Logs</string>
+</resources>
